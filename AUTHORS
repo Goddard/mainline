@@ -1,4 +1,2 @@
-Tony George		first version of all files
-Steven G		revisions to SettingsDialog.vala Main.vala TeeJee.System.vala
-Cloyce D. Spradling	revisions to LinuxKernel.vala AppConsole.vala
-Brian K. White		revisions to many files
+Sergiy Golovko		Initial skeleton replacement of "ukuu" -> ukuu-kde
+Brian K. White		Minor re-structure of Sergiy's original ukuu-kde

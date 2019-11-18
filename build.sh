@@ -1,2 +1,8 @@
+#!/bin/bash
 
-make 2>&1 | grep -E --line-buffered --color=never 'error:|.vala:.*warning:' | grep -E --line-buffered --color=always "error:|$"
+# ugly placeholder reference until we get Makefile / qmake process worked out
+
+cd src && \
+qmake -project "QT += network widgets" -o mainline.pro && \
+qmake && \
+make

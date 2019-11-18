@@ -1,5 +1,5 @@
+Makefile
 mainline
-mainline-gtk
 release
 *.c
 *.o

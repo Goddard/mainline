@@ -1,0 +1,7 @@
+<RCC>
+    <qresource>
+        <file>images/general.svg</file>
+        <file>images/help-info.svg</file>
+        <file>images/tux.png</file>
+    </qresource>
+</RCC>
